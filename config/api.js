@@ -1,4 +1,4 @@
-var NewApiRootUrl = 'https://zs.sasu.edu.cn/api/';
+var NewApiRootUrl = 'http://192.168.31.116:8360/api/';
 
 module.exports = {
     IndexUrl: NewApiRootUrl + 'index/index', //首页数据接口
